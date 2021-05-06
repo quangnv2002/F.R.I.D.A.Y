@@ -1,0 +1,10 @@
+@ thư viện chuyển văn bản thành giọng nói :
+pip install pyttsx3
+
+@ thư viện nhận diện giọng nói (cài cả 2):
+1 speech_recognition
+pip install SpeechRecognition
+
+2 pyaudio
+pip install pipwin
+pipwin install pyaudio
